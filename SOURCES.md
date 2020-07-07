@@ -10,7 +10,6 @@ https://mirror1.malwaredomains.com/files/justdomains|hostfile|`malware`|
 https://mirror1.malwaredomains.com/files/immortal_domains.txt|hostfile|`malware`|
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt|hostfile|`ads`|Excluding legit license servers
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt|hostfile|`spam`|
-https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt|hostfile|`ads`|
 https://www.dshield.org/feeds/suspiciousdomains_Medium.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts|hostfile|`spam`|
 https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz|hostfile|`ads`|only 'publicite' list
@@ -19,7 +18,6 @@ https://v.firebog.net/hosts/static/w3kbl.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt|hostfile|`ads`|
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt|hostfile|`mining`|
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts|hostfile|`ads`|
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts|hostfile|`spam` `malware` `phishing`|
@@ -70,10 +68,11 @@ https://azorult-tracker.net/api/list/domain?format=plain|hostfiles|`malware`|
 https://kriskintel.com/ktip_corona.txt|hostfile|`phishing` `malware`|
 https://kriskintel.com/ktip_maze.txt|hostfile|`phishing` `malware`|
 https://kriskintel.com/ktip_domain_blacklist.txt|hostfile|`phishing` `malware`|
-https://raw.githubusercontent.com/socram8888/not-on-my-shift/master/domains.txt|hostfile|`malware` `phishing` `ads`|
+https://orca.pet/notonmyshift/domains.txt|hostfile|`malware` `phishing` `ads`|
 https://raw.githubusercontent.com/deletescape/noads/master/lists/add-switzerland.txt|hostfile|`ads`|
 https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malicious_domains.txt|hostfile|`phishing` `malware`|
 https://rescure.fruxlabs.com/covid.txt|hostfile|`phishing` `malware`|
+https://raw.githubusercontent.com/Meldon6/AttackVectors-Domain-List/master/AttackVectorsDomains|hostfile|`phishing`|
 large set of custom entries|hostfile|`ads` `malware` `spam` `trackers`|
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt|adblock|`ads`|
 https://www.fanboy.co.nz/enhancedstats.txt|adblock|`ads`|
